@@ -21,7 +21,7 @@ class CanvasApp extends JFrame implements MouseListener {
             public void paint(Graphics g) {
                 super.paint(g);
 
-                // Fond noir
+                // Fond noir dd
                 g.setColor(Color.white);
                 g.fillRect(0, 0, getWidth(), getHeight());
 
